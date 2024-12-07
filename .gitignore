@@ -1,0 +1,7 @@
+__pycache__
+billing
+billing-env
+config
+env
+.venv
+*.zip
